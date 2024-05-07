@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/alexi/Documents/Arduino/sketch_apr9a",
-      "program": "c:/Users/alexi/Documents/Arduino/sketch_apr9a/build/Debug/outDebug",
+      "cwd": "c:/Users/alexi/Desktop/IUT_2023-2024/S4/Stage/GeoSensor/sketch_apr9a",
+      "program": "c:/Users/alexi/Desktop/IUT_2023-2024/S4/Stage/GeoSensor/sketch_apr9a/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
