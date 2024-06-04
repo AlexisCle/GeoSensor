@@ -235,6 +235,8 @@
         "C:\\Users\\alexi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\esp32\\2.0.13\\cores\\esp32",
         "C:\\Users\\alexi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\esp32\\2.0.13\\variants\\arduino_nano_nora",
         "C:\\Users\\alexi\\Documents\\Arduino\\libraries\\TinyGPSPlus\\src",
+        "C:\\Users\\alexi\\Documents\\Arduino\\libraries\\RadioHead",
+        "C:\\Users\\alexi\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\esp32\\2.0.13\\libraries\\SPI\\src",
         "c:\\users\\alexi\\appdata\\local\\arduino15\\packages\\esp32\\tools\\xtensa-esp32s3-elf-gcc\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\include\\c++\\8.4.0",
         "c:\\users\\alexi\\appdata\\local\\arduino15\\packages\\esp32\\tools\\xtensa-esp32s3-elf-gcc\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\include\\c++\\8.4.0\\xtensa-esp32s3-elf",
         "c:\\users\\alexi\\appdata\\local\\arduino15\\packages\\esp32\\tools\\xtensa-esp32s3-elf-gcc\\esp-2021r2-patch5-8.4.0\\xtensa-esp32s3-elf\\include\\c++\\8.4.0\\backward",
